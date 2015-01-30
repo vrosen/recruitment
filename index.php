@@ -1,10 +1,4 @@
-<?php 
-/*
- * this is a test Api App
- * made by Viktor Panayotov for Cayetanogaming
- * on 09.01.2015,Varna,Bulgaria
- */
-?>
+
 <?php include ('header.php');?>
 <?php include_once ('caller.php');?>
 <?php
