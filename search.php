@@ -3,11 +3,7 @@
 <link href="../css/plugins/morris.css" rel="stylesheet">
 <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <?php
-/*
- * this is a test Api App
- * made by Viktor Panayotov for Cayetanogaming
- * on 09.01.2015,Varna,Bulgaria
- */
+
 include ('header.php');
 include_once ('caller.php');
 
