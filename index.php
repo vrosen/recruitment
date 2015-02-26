@@ -1,5 +1,6 @@
 
 <?php include ('header.php');?>
+<?php include ('header.php');?>
 <?php include_once ('caller.php');?>
 <?php
     //we instantiate the caller class here    
